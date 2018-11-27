@@ -1,6 +1,6 @@
 /*
  * File:   newmain.c
- * Author: zachc
+ * Author: zachc, Bennett Andrews
  *
  * Created on October 1, 2018, 8:58 PM
  */
